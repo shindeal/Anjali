@@ -1,9 +1,1 @@
-Cython
-pandas
-pyodbc
-statsmodels
-matplotlib
-numpy
-scikit-learn
-pmdarima==1.8.2
 streamlit
